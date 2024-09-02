@@ -6,7 +6,7 @@ Simple markdown editor and preview website built with Vite and React.
 
 ## 🖧 Stack
 
-- Vite for build and development.
+- Vite with React.
 - React Markdown.
 - TypeScript.
 - Tailwind CSS.

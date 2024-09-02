@@ -8,7 +8,7 @@ export default function Navbar() {
 
 				<div className="flex flex-col items-center justify-center">
 					<h1 className="text-sm font-semibold">MDash - Live Markdown Editor & Preview</h1>
-					<p className="text-xs text-muted-foreground">Press Ctrl + 0 to toggle fullscreen mode.</p>
+					<p className="hidden text-xs text-muted-foreground md:block">Press Ctrl + 0 to toggle fullscreen mode.</p>
 				</div>
 			</div>
 		</nav>
