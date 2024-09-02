@@ -1,6 +1,6 @@
 import logo from "/logo.png"
 
-export default function TopNav() {
+export default function Navbar() {
 	return (
 		<nav className="flex flex-col items-center justify-center p-3">
 			<div className="flex flex-row items-center justify-center gap-4">
