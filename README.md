@@ -2,7 +2,7 @@
 
 Simple markdown editor and preview website built with Vite and React.
 
-[🚀 Check it out!](https://mdash-live.vercel.app)
+[🔍 Check it out!](https://mdash-live.vercel.app)
 
 ## 🖧 Stack
 

@@ -1,9 +1,11 @@
 dist/
 build/
 out/
-coverage/
 test/
 tests/
+coverage/
+.nyc_output/
+.scannerwork/
 node_modules/
 .vercel/
 .vscode/
