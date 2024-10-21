@@ -7,15 +7,15 @@ const config = {
 				foreground: "var(--foreground)",
 				muted: {
 					DEFAULT: "var(--muted)",
-					foreground: "var(--muted-foreground)",
+					foreground: "var(--muted-foreground)"
 				},
 				destructive: {
 					DEFAULT: "var(--destructive)",
-					foreground: "var(--destructive-foreground)",
-				},
-			},
-		},
-	},
+					foreground: "var(--destructive-foreground)"
+				}
+			}
+		}
+	}
 }
 
 export default config
